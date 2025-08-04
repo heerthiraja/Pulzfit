@@ -44,7 +44,7 @@ Currently in the **MVP development** phase. Key features under development inclu
 
 ## 👥 Founders
 - **[Heerthi Raja](https://www.linkedin.com/in/heerthiraja/)** – Product & Vision  
-- **[Basila Raja](https://www.linkedin.com/in/syed-basila-s/)** – Technical Co-Founder
+- **[Basila](https://www.linkedin.com/in/syed-basila-s/)** – Technical Co-Founder
 
 ---
 
