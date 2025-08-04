@@ -56,5 +56,3 @@ Want to collaborate, mentor, or support PulzFit?
 
 > “Winners aren’t just persistent—they know *when* to persist.”  
 > Let’s build the future of fitness. Together.
-> “Winners aren’t just persistent—they know *when* to persist.”  
-> Let’s build the future of fitness. Together.
